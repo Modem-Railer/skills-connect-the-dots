@@ -6,6 +6,10 @@
   Encourage users to open new tabs for steps!
 -->
 
+<!--
+  Duplicate of #2
+-->
+
 ## Step 1: Resolve duplicate issues
 
 _Welcome to the course :tada:_
